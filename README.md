@@ -35,5 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Home page demo:
 ![alt text](public/home-page.png)
+Link demo:
+Click [here](https://thientvse.github.io/ReactJS-MovieApp/) to view page
 
 
